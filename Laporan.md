@@ -95,7 +95,7 @@ Models used:
 ## 🖼️ Example Output
 
 <p align="center">
-  <img src="example_result.png" width="450" />
+  <img src="deteksi.png" width="450" />
 </p>
 
 Example Labels:
