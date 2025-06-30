@@ -43,14 +43,13 @@ Models used:
 
 ## 🛠️ Tools & Technologies
 
-| Component           | Description                             |
-|---------------------|-----------------------------------------|
-| 🐍 Python            | Programming language                    |
+| Component           | Description                              |
+|---------------------|----------------------------------------- |
+| 🐍 Python            | Programming language                   |
 | 🧠 OpenCV (cv2)      | For computer vision & image processing |
-| ⚙️ argparse          | CLI argument parser                    |
-| 📏 math              | For position and dimension calculation |
-| 🔬 Caffe             | Pretrained models (age & gender)        |
-| 💡 OpenCV DNN        | Deep Learning inference framework       |
+| 🖼️ Pillow (PIL)	Untuk memproses dan menampilkan gambar di GUI |
+| 🪟 Tkinter	Untuk membuat antarmuka grafis (GUI)              |
+| 📐 math	Untuk perhitungan posisi dan dimensi                  |
 
 ---
 
@@ -105,9 +104,8 @@ Male, 38-43
 ---
 
 ## 📚 Libraries Used
-
-- `cv2` → For webcam, face detection, drawing boxes, and visualization.
-- `argparse` → Optional, for command-line argument handling.
-- `math` → For calculating positions and layout of labels.
+- cv2 → Untuk akses webcam, deteksi wajah, menggambar kotak, dan visualisasi.
+- Pillow (PIL) → Untuk mengolah gambar dan menampilkannya di antarmuka GUI.
+- tkinter → Untuk membuat antarmuka grafis aplikasi (GUI) berbasis desktop.
 
 ---
