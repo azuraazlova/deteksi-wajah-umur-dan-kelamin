@@ -43,13 +43,13 @@ Models used:
 
 ## 🛠️ Tools & Technologies
 
-| Component           | Description                              |
-|---------------------|----------------------------------------- |
-| 🐍 Python            | Programming language                   |
-| 🧠 OpenCV (cv2)      | For computer vision & image processing |
-| 🖼️ Pillow (PIL)	Untuk memproses dan menampilkan gambar di GUI |
-| 🪟 Tkinter	Untuk membuat antarmuka grafis (GUI)              |
-| 📐 math	Untuk perhitungan posisi dan dimensi                  |
+| Component           | Description                                   |
+|---------------------|-----------------------------------------------|
+| 🐍 Python           | Programming language                          |
+| 🧠 OpenCV (cv2)     | For computer vision & image processing        |
+| 🖼️ Pillow (PIL)	    |For image processing and GUI display           |
+| 🪟 Tkinter	        |For building desktop graphical user interface  |
+| 📐 math	            |For position and dimension calculations        |
 
 ---
 
@@ -104,8 +104,10 @@ Male, 38-43
 ---
 
 ## 📚 Libraries Used
-- cv2 → Untuk akses webcam, deteksi wajah, menggambar kotak, dan visualisasi.
-- Pillow (PIL) → Untuk mengolah gambar dan menampilkannya di antarmuka GUI.
-- tkinter → Untuk membuat antarmuka grafis aplikasi (GUI) berbasis desktop.
+- cv2 → For accessing the webcam, face detection, drawing boxes, and visualizing results.
+- Pillow (PIL) → For processing images and displaying them in the GUI.
+- tkinter → For building the desktop graphical user interface (GUI).
+
+
 
 ---
